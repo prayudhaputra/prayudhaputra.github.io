@@ -1,0 +1,29 @@
+#hero {
+  padding-top: 10rem;
+  background-image: linear-gradient(to);
+  background-color: #27374d;
+}
+#about {
+  background-color: #dde6ed;
+}
+
+#projects {
+  background-color: #27374d;
+}
+#contact {
+  background-color: #dde6ed;
+}
+
+footer {
+  background-color: #526d82;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#fwrap {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  margin-bottom: 8rem;
+}
